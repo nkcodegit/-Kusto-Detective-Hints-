@@ -1,0 +1,19 @@
+Welcome to the Kusto Detective Agency
+
+https://youtu.be/BaW0qsxxYRc
+
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/BaW0qsxxYRc" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/BaW0qsxxYRc"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+Welcome to the Kusto detective agency rookie! If you have already joined us before click here to log in.
+
+Your first task is to create a free Kusto cluster which will be your primary investigation tool. Then you’ll have to answer a simple question to get started.
+To create a free Kusto cluster, you need either a Microsoft account (MSA) or an Azure Active Directory (AAD) identity. Create your cluster here: https://aka.ms/kustofree
+Copy the Cluster URI, as highlighted in the following image:
+
+https://detective.kusto.io/img/onboarding-kusto-free.png
