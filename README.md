@@ -13,3 +13,6 @@ Good luck, rookie. You’re going to need it.
 The Lieutenant
 
 https://youtu.be/BaW0qsxxYRc
+
+
+https://www.nkcode.xyz/index.php/10/kusto-detective-agency-2022-onboarding/cloud/azure/
