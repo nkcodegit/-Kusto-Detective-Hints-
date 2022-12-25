@@ -18,3 +18,5 @@ https://youtu.be/BaW0qsxxYRc
 https://www.nkcode.xyz/index.php/10/kusto-detective-agency-2022-onboarding/cloud/azure/
 
 https://www.nkcode.xyz/index.php/10/kusto-detective-agency-2022-case-1-the-rarest-book-is-missing/cloud/azure/
+
+https://www.nkcode.xyz/index.php/11/kusto-detective-agency-2022-case-2-election-fraud/cloud/azure/
